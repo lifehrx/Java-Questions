@@ -6,6 +6,8 @@
 > Clone ，new ，反射，Class.new Instance(),  调用构造方法
 > https://www.cnblogs.com/wxd0108/p/5685817.html
 >
+> https://blog.csdn.net/u010154380/article/details/78150251?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1->utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param
+>
 > 2.  Spring的常用注解？
 >
 >
