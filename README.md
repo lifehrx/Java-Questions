@@ -4,6 +4,7 @@
 
 > 1. Java 里如何创建一个新对象？
 > Clone ，new ，反射，Class.new Instance(),  调用构造方法
+> https://www.cnblogs.com/wxd0108/p/5685817.html
 >
 > 2.  Spring的常用注解？
 >
